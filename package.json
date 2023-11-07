@@ -1,0 +1,24 @@
+{
+  "name": "jwt2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/menty44/jwtsimulate.git"
+  },
+  "keywords": [
+    "jwt",
+    "privatekeys",
+    "publickeys"
+  ],
+  "author": "Fredrick Oluoch menty44@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/menty44/jwtsimulate/issues"
+  },
+  "homepage": "https://github.com/menty44/jwtsimulate#readme"
+}
